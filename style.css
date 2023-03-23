@@ -22,7 +22,6 @@ width: 100%;
     font-family: 'Caveat', cursive;
 }
 .swiper-slide{
-    margin-top: 533px;
     display: flex;
     justify-content: center;
     align-items: center;
