@@ -3,6 +3,9 @@ body{
     width: 100vw;
     overflow: hidden;
     font-size: 40px;
+    background: rgb(252,0,137);
+    background: linear-gradient(90deg, rgba(252,0,137,1) 0%, rgba(17,0,159,1) 50%, rgba(37,0,255,1) 100%);   
+    color: white; 
 }
 .container {
     max-width: 100vw;
@@ -22,6 +25,7 @@ width: 100%;
     font-family: 'Caveat', cursive;
 }
 .swiper-slide{
+    margin-top: 533px;
     display: flex;
     justify-content: center;
     align-items: center;
